@@ -1,3 +1,3 @@
 # hello-world
 
-I go by SmallCog and I'm teaching myself software development so I can find a way to automate difficult / annoying tasks for a loved one
+I go by SmallCog and I'm teaching myself as much as I can learn about software development to gain more tech literacy 
